@@ -1,3 +1,7 @@
+
+TODO:// PRACTICE ASSIGNMENT ////
+
+
 // Solve the following questions
 
 // • Write a loop to print numbers from 1 to 10.

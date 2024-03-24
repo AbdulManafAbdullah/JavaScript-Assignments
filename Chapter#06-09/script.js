@@ -1,3 +1,7 @@
+
+TODO://  ASSIGNMENT CHAPTER# "06 TO 09"
+
+
 document.write(`<h3>task no 1</h3>`)
 
 var num = 10
